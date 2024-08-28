@@ -30,7 +30,7 @@ public class IT24100454Lab5Q3
             else
                 {
                     int days = date2-date1;
-                    float total = days*48000;
+                    float total = days*amount;
 
                     if(days<=2)
                     {
